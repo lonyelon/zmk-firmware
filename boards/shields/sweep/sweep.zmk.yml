@@ -3,8 +3,7 @@ id: sweep
 name: Sweep Bling
 type: shield
 url: https://splitkb.com/products/aurora-sweep-pcb-kit
-requires: [pro_micro]
-exposes: [i2c_oled]
+requires: [nice_nano]
 features:
   - keys
   - studio

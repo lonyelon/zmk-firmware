@@ -6,4 +6,4 @@
 # `artifact-name` to assign a name to distinguish build outputs from each other:
 #
 board: [ "nice_nano" ]
-shield: [ "sweep_left", "sweep_right" ]
+shield: [ "cradio_left", "cradio_right" ]
